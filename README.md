@@ -10,6 +10,8 @@ Autocut 是配合 **CapCut 或 ChatCut** 使用的 Codex 短视频剪辑技能�
 
 把最新版 ZIP 交给 Codex，说「请安装 Autocut」。装好后，在新对话输入 `使用 $autocut 开始`。你可以拖入原片、发素材位置，也可以先回复「模拟」。
 
+也可以把 [GitHub 技能目录](https://github.com/HERRYSONG917/autocut/tree/main/skills/autocut) 交给 Codex，说「请从这个目录安装 Autocut」。
+
 ## English
 
 Autocut is a Codex skill for editing short-form videos with **CapCut or ChatCut**. Give it your footage and a one-line brief. It guides you through selecting clips, cutting, adding captions, and reviewing an editable project. Use it for talking-head videos, interviews, product ads, factory promos, and screen demos.
@@ -17,6 +19,8 @@ Autocut is a Codex skill for editing short-form videos with **CapCut or ChatCut*
 1. Download the Autocut ZIP from [the latest release](https://github.com/HERRYSONG917/autocut/releases/latest). Give the complete ZIP to Codex and say **“Install Autocut.”**
 2. Connect your own CapCut or ChatCut. In a new Codex chat, say **“Use $autocut to get started.”**
 3. Share the footage, its folder, or an open editor project. Confirm a short brief, then review the project and give feedback by timecode. If you have no footage yet, say **“Try the demo.”**
+
+To install from GitHub, give Codex the [Autocut skill folder](https://github.com/HERRYSONG917/autocut/tree/main/skills/autocut) and say **“Install Autocut from this folder.”**
 
 For talking-head videos, choose a basic rough cut, a polished rough cut, or a finished export with an editable project. Features depend on your connected editor and account. The skill is available for trial use under the [project license](LICENSE.md).
 
