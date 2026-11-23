@@ -1,0 +1,26 @@
+{
+  "editor": "auto",
+  "media": "current_project_or_user_provided_folder",
+  "editing_model": {
+    "provider": null,
+    "model": null,
+    "reasoning_effort": "highest_available"
+  },
+  "types": ["D"],
+  "finish_level": "full",
+  "duration_seconds": 60,
+  "aspect_ratio": "9:16",
+  "platforms": ["TikTok", "Facebook"],
+  "language_mode": "original_voice_with_subtitles",
+  "source_language": null,
+  "subtitle_languages": ["en"],
+  "audience_and_focus": "Show overseas buyers the real manufacturing process.",
+  "special_requirements": [],
+  "favorites_only": false,
+  "music": "suitable_authorized_track",
+  "delivery": "one_editable_project",
+  "export_video": false,
+  "paid_generation_budget": null,
+  "locked_facts": [],
+  "note": "Agent-side factory example only. For talking-head projects, choose white_rough, polished_rough, or ready_to_publish and resolve delivery separately. source_language identifies the original speech; subtitle_languages identifies the output. special_requirements displays as 其他要求, with an empty list displayed as 无. Null budget does not authorize paid generation."
+}
