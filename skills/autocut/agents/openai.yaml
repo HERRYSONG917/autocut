@@ -1,4 +1,4 @@
 interface:
   display_name: "Autocut"
-  short_description: "从一句开始引导短视频剪辑，支持口播、工厂宣传、多语字幕与可编辑工程交付"
+  short_description: "短视频剪辑引导 | Guided short-form video editing"
   default_prompt: "使用 $autocut 开始"

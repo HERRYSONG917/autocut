@@ -1,6 +1,12 @@
 # 安装与开始
 
-Autocut v0.3.0 · 2026-11-23
+Autocut v0.3.1 · 2026-11-23
+
+## Quick start in English
+
+1. Give Codex the complete Autocut ZIP and say “Install Autocut.” If it is already installed, say “Update Autocut and keep my preferences.”
+2. Connect your own CapCut or ChatCut and open a new Codex chat. Say “Use $autocut to get started.”
+3. Share your footage, its folder, or the editor project. Confirm the short editing brief, then review the editable project. Without footage, say “Try the demo.”
 
 这个文件夹就是技能本体。必须保留`SKILL.md`、`references/`、`agents/`及其他配套文件，不能只复制主说明。
 

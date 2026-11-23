@@ -1,20 +1,22 @@
 ---
 name: autocut
-description: Guide users through Autocut short-video editing in CapCut or ChatCut, from first use to an editable rough cut or finished project. Use for setup, walkthroughs, talking-head videos, factory promos, multilingual captions, and revisions. In an active Autocut chat, 开始、怎么做、我想开始剪辑 resume the workflow.
+description: Guide short-form video editing in CapCut or ChatCut, from first setup to an editable draft or a finished video. Use for talking-head videos, factory promos, multilingual captions, and revisions. 引导使用 CapCut 或 ChatCut 剪短视频，适用于口播、工厂宣传、多语字幕及返修。已选中 Autocut 时可说「开始」或 “Start”。
 license: See LICENSE.md for trial-use terms; commercial rights reserved.
 metadata:
-  version: "0.3.0"
+  version: "0.3.1"
 ---
 
 # Autocut
 
-把用户的素材和简短要求做成流畅、可检查的短视频工程。适合口播、广告、工厂宣传与人物＋电脑演示。当前任务要求优先于默认值。
+**中文** · Autocut 是 Codex 的短视频剪辑技能，配合 CapCut 或 ChatCut 使用。交给它素材和一句话要求，就能从选段、粗剪和字幕，走到工程审核或成片交付。适合口播、广告、工厂宣传和人物＋电脑演示。
+
+**English** · Autocut is a Codex skill for editing short-form videos with CapCut or ChatCut. Give it your footage and a one-line brief. It guides you through selecting clips, cutting, captioning, and reviewing an editable project or a finished video. Use it for talking-head videos, ads, factory promos, and screen demos with a presenter.
 
 每次新任务先通读[《Autocut 章程》](references/charter.md)，再回复或开工。续做、返修和交付前重看所处环节的条款。章程管理通用工作规则，客户及系列喜好独立保存。
 
 ## 用户一句话就能开始
 
-在已选择、已明确调用 Autocut 或已开始 Autocut 工作的对话里，「开始」「怎么做」「我想开始剪辑」都从当前步骤接着走。普通对话里只有「开始」且上下文无法确定剪辑意图时，不接管其他任务。第一次使用可提供「使用 $autocut 开始」。
+在已选择或已开启 Autocut 的对话里，「开始」「怎么做」「我想开始剪辑」「Start」都从当前步骤接着走。普通对话里只有「开始」且上下文无法确定剪辑意图时，不接管其他任务。第一次使用可说「使用 $autocut 开始」或 “Use $autocut to get started.” 沿用用户所用语言引导，当前任务要求优先于默认值。
 
 第一次开工、继续到下一步或用户卡住时，读[主动引导与模拟](references/onboarding.md)。没有素材时，告诉用户可以拖入文件、发位置或指定现有工程，也可以回复「模拟」。新手可随时打开[七步流程图](assets/guide/flow.png)或[图文指南](assets/guide/quickstart.pdf)。
 

@@ -1,12 +1,26 @@
 # Autocut
 
-**v0.3.0 · 2026-11-23**
+**v0.3.1 · 2026-11-23**
 
-把素材、要求和修改意见交给 AI，由 Autocut 组织选段、剪辑、字幕、声音与交付。适合口播、商业 IP、产品广告、工厂宣传、人物＋电脑和活动探访。
+[中文](#中文简介) · [English](#english) · [下载最新版 / Download the latest version](https://github.com/HERRYSONG917/autocut/releases/latest)
 
-选择 Autocut 后说 **「开始」**。它会主动带你交素材、选择剪辑方式、检查工程和反馈修改。
+## 中文简介
 
-> 这是流程技能，不是剪辑软件或独立自动剪辑程序。它不附赠账号、模型额度、音乐版权或所有第三方子技能。需要可用的Codex及实际连接的CapCut/ChatCut；具体功能取决于当前版本和账号。现阶段为试用版，不能承诺无人审核即可商用交付。
+Autocut 是配合 **CapCut 或 ChatCut** 使用的 Codex 短视频剪辑技能。给它原片和一句话要求，它会引导你选段、剪辑、加字幕和审核工程。适合口播、访谈、产品广告、工厂宣传和录屏演示。
+
+把最新版 ZIP 交给 Codex，说「请安装 Autocut」。装好后，在新对话输入 `使用 $autocut 开始`。你可以拖入原片、发素材位置，也可以先回复「模拟」。
+
+## English
+
+Autocut is a Codex skill for editing short-form videos with **CapCut or ChatCut**. Give it your footage and a one-line brief. It guides you through selecting clips, cutting, adding captions, and reviewing an editable project. Use it for talking-head videos, interviews, product ads, factory promos, and screen demos.
+
+1. Download the Autocut ZIP from [the latest release](https://github.com/HERRYSONG917/autocut/releases/latest). Give the complete ZIP to Codex and say **“Install Autocut.”**
+2. Connect your own CapCut or ChatCut. In a new Codex chat, say **“Use $autocut to get started.”**
+3. Share the footage, its folder, or an open editor project. Confirm a short brief, then review the project and give feedback by timecode. If you have no footage yet, say **“Try the demo.”**
+
+For talking-head videos, choose a basic rough cut, a polished rough cut, or a finished export with an editable project. Features depend on your connected editor and account. The skill is available for trial use under the [project license](LICENSE.md).
+
+[Installation guide](skills/autocut/INSTALL.md#quick-start-in-english) · [Seven-step illustrated workflow (Chinese)](skills/autocut/assets/guide/flow.png)
 
 ## 快速开始
 
@@ -58,7 +72,7 @@ skills/autocut/
   scripts/                    可选本地辅助，不是完整剪辑引擎
 ```
 
-分享给朋友时发 `autocut-v0.3.0.zip`。里面有完整技能文件夹、流程图和图文手册。仓库发布后，也可以直接发 Releases 中对应版本的下载页。
+分享给朋友时发 [最新版下载页](https://github.com/HERRYSONG917/autocut/releases/latest) 或 `autocut-v0.3.1.zip`。安装包内有完整技能文件夹、流程图和图文手册。
 
 上传GitHub：上传本仓库**解压后的源码内容**，保持`skills/autocut/SKILL.md`路径；在Release附安装ZIP。见[GitHub上传指南](docs/GITHUB_UPLOAD.md)。
 

@@ -1,5 +1,10 @@
 # 更新记录
 
+## 0.3.1 · 2026-11-23 · 中英双语介绍 / Bilingual introduction
+
+- GitHub 首页、技能开头与分享入口增加中英双语介绍，英文也能跟着开工指引操作。
+- Added Chinese and English introductions to the repository and skill, plus quick-start instructions for both languages. The editing workflow carries over from v0.3.0.
+
 ## 0.3.0 · 2026-11-23 · 实剪反馈
 
 - 将口播分为粗剪白版、粗剪完整版与直出（最终完整版），确认卡说明三档，支持单独增减包装。
